@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "0432e9b9f08626df",
+    "type": "split",
+    "children": [
+      {
+        "id": "97a2eba6473657b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69759863600b6d91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "73cfc30afab6c392",
+    "type": "split",
+    "children": [
+      {
+        "id": "45c940333adaf205",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1cf5616171e542b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "67f37dc4e6d5f97e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "800e1d5aa758bfc1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 377.5
+  },
+  "right": {
+    "id": "b89afdd32aaa7abb",
+    "type": "split",
+    "children": [
+      {
+        "id": "1bf6311b2c190a6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9833a42d2c0f79c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Calendar/20251017 AIR.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 20251017 AIR"
+            }
+          },
+          {
+            "id": "ef51c5a06c0e0c2e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Calendar/20251017 AIR.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 20251017 AIR"
+            }
+          },
+          {
+            "id": "53ae306380a747d6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3a2281a72ccf48ff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Calendar/20251017 AIR.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 20251017 AIR"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "69759863600b6d91",
+  "lastOpenFiles": [
+    "Calendar/Meetings/2026-02-02 152025 meeting testing templates.md",
+    "Calendar/Meetings/2026-02-01 041849 meeting this properly adds the time.md",
+    "Welcome.md",
+    "Efforts/Effort with Fixed Template.md",
+    "Calendar/Meetings/2026-02-01 042041 meeting  will cursor be replaced.md",
+    "Calendar/Meetings/Untitled 1.md",
+    "Atlas/Files 📃 and Folders 📁/Templates/Frontmatter/Meeting Template.md",
+    "Calendar/Meetings/Untitled.md",
+    "Calendar/Meetings/2026-02-01 meeting testing policy enabled.md",
+    "Calendar/Meetings/2026-02-01 meeting Testing default naming.md",
+    "Calendar/Meetings/2026-02-01 Testing with default date.md",
+    "Calendar/Meetings/2026-02-01 Testing title prompt.md",
+    "Calendar/Meetings/2026-02-01 Testing templater.md",
+    "Atlas/Files 📃 and Folders 📁/Templates/Frontmatter/Atlas Template.md",
+    "Atlas/Files 📃 and Folders 📁/Images/Pasted image 20251017121144.png",
+    "Calendar/Meetings/20251017-190819 - Dua.md",
+    "Calendar/Meetings/20251017-190924 - Lipa.md",
+    "+ Random/Complete Data Flow Diagram.md",
+    "+ Random",
+    "Calendar/Meetings/Another TEST note.md",
+    "Atlas/Files 📃 and Folders 📁/Templates/Frontmatter/Effort Template.md",
+    "Calendar/Meetings/2025-10-17 - Meeting with Dua.md",
+    "Calendar/Meetings/2025-10-17 - Meeting with Dua Lipa.md",
+    "Calendar/Meetings/2025-10-17 - La ultima del viernes.md",
+    "Calendar/Meetings/First Meeting with Template.md",
+    "Atlas/Files 📃 and Folders 📁/Templates/Frontmatter/Task Template.md",
+    "Atlas/Files 📃 and Folders 📁/Templates/Frontmatter/Calendar Template.md",
+    "Efforts/First Effort.md",
+    "Atlas/Dots ⚛️/Sources",
+    "Atlas/Dots ⚛️/People",
+    "Calendar/Tasks",
+    "Calendar/Meetings",
+    "Atlas/Files 📃 and Folders 📁/Templates/Frontmatter/Untitled",
+    "Atlas/Files 📃 and Folders 📁/Templates/Frontmatter",
+    "Atlas/Files 📃 and Folders 📁/Templates",
+    "Atlas/Files 📃 and Folders 📁/Images",
+    "Pasted image 20251017120502.png",
+    "Atlas/Files 📃 and Folders 📁"
+  ]
+}
