@@ -1,0 +1,16 @@
+{
+  "dateFormat": "yyyy-MM-dd'T'HH:mm",
+  "enableCreateTime": true,
+  "headerUpdated": "updated",
+  "headerCreated": "created",
+  "minMinutesBetweenSaves": 1,
+  "ignoreGlobalFolder": [],
+  "ignoreCreatedFolder": [],
+  "enableExperimentalHash": false,
+  "fileHashMap": {
+    "Atlas/Files 📃 and Folders 📁/Templates/Frontmatter/Meeting Template.md": "c9de345737082caa4f4570dbc093ee715bd2ed6ebb3482f40f8821f93586fe4d",
+    "Atlas/Files 📃 and Folders 📁/Templates/Frontmatter/Effort Template.md": "3ecd46549acadc69d172ca52442103eaa27cdb8b8036a33061ccbf069b575f95",
+    "Efforts/_Kanban Dashboard.md": "e6b601097b9abc708530edd3366a04a43e60f2da7da35f972b3f1cc4650bee96",
+    "Welcome.md": "382cce5c5cf0c74efd5fe79a54b655c1b0018f19e5013c26519a7b86130513b2"
+  }
+}

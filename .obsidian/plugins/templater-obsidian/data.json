@@ -17,6 +17,10 @@
     {
       "folder": "Calendar/Meetings",
       "template": "Atlas/Files 📃 and Folders 📁/Templates/Frontmatter/Meeting Template.md"
+    },
+    {
+      "folder": "Efforts",
+      "template": "Atlas/Files 📃 and Folders 📁/Templates/Frontmatter/Effort Template.md"
     }
   ],
   "enable_file_templates": false,

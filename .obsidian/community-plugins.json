@@ -1,5 +1,7 @@
 [
   "templater-obsidian",
   "quickadd",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "update-time-on-edit",
+  "dataview"
 ]
